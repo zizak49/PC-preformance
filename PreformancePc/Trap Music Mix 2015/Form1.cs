@@ -53,8 +53,6 @@ namespace Trap_Music_Mix_2015
 
             this.ram_text.Text = Convert.ToInt32(ramCounter.NextValue()).ToString() + "Mb";
         }
-    }
-
-       
+    }      
     }
 
